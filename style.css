@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  background-color: black;
+}
+main{
+  background-color: black;
+}
+#details{
+  padding: 20px;
+}
+#head{
+  margin: 10px;
+}
+#details p {
+  margin: 10px;
+}
+
+
+button{
+  background-color: white;
+  color: black;
+  border: none;
+  width: 10%;
+  
+  margin-left: 10px;
+}
+
+#btn{
+  padding: 10px;
+}
+
+#reset{
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  margin-left: 10px;
+}
+
+#error{
+  color: red;
+  font-size: 20px;
+}
